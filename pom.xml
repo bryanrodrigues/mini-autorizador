@@ -45,7 +45,7 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- Lombok (anotações @Getter, @Setter, etc.) -->
+        <!-- Lombok  -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>

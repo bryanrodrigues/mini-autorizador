@@ -3,7 +3,6 @@ package com.vr.miniautorizador.model.mapper;
 import com.vr.miniautorizador.model.dto.CartaoRequest;
 import com.vr.miniautorizador.model.dto.CartaoResponse;
 import com.vr.miniautorizador.model.entity.Cartao;
-import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 
